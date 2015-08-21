@@ -2,4 +2,4 @@
 
 ### Exercises
 
-### [Slides]()
+### [Slides](25_Product_management_Tabone.pdf)
