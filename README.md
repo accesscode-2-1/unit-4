@@ -11,19 +11,19 @@ Lesson Plans for Access Code 2.1, Unit 4
 4 | Sun, Sep 27 | 1 | [Unit 3 Review: Databases](/lessons/4_ReviewDatabases.md)
 5 | Tues, Sep 29 | 1 | [Workshop: Tech Pathways + Intro to Node.js](/lessons/5_Nodejs.md)
 6 | Thurs, Oct 1 | 1 | Mock Interviews
-7 | Sat, Oct 3 | 1 | Data Structures + Algorithms
+7 | Sat, Oct 3 | 1 | Data Structures + Algorithms / OOP
 8 | Sun, Oct 4 | 2 | Data Structures + Algorithms
 9 | Tues, Oct 7 | 2 | Data Structures + Algorithms
 10 | Thurs, Oct 8 | 2 | Mock Interviews
-11 | Sat, Oct 10 | 2 | Data Structures + Algorithms
+11 | Sat, Oct 10 | 2 | Data Structures + Algorithms / OOP
 12 | Sun, Oct 11 | 3 | Data Structures + Algorithms
 13 | Tues, Oct 13 | 3 | Data Structures + Algorithms
 14 | Thurs, Oct 15 | 3 | Mock Interviews
-15 | Sat, Oct 17 | 3 | Data Structures + Algorithms
+15 | Sat, Oct 17 | 3 | Data Structures + Algorithms / OOP
 16 | Sun, Oct 18 | 4 | Data Structures + Algorithms
 17 | Tues, Oct 20 | 4 | Data Structures + Algorithms
 18 | Thurs, Oct 22 | 4 | Mock Interviews
-19 | Sat, Oct 24 | 4 | Data Structures + Algorithms
+19 | Sat, Oct 24 | 4 | Data Structures + Algorithms / OOP
 20 | Sun, Oct 25 | 5 | Data Structures + Algorithms
 21 | Tues, Oct 27 | 5 | Data Structures + Algorithms
 22 | Thurs, Oct 29 | 5 | Mock Interviews
