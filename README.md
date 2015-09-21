@@ -9,7 +9,7 @@ Lesson Plans for Access Code 2.1, Unit 4
 2 | Thurs, Sep 24 | 0 | Resume Prep + Code Review Exercise
 3 | Sat, Sep 26 | 0 | [Unit 3 Review: Adapters and Fragments](/lessons/3_ReviewAdaptersFragments.md)
 4 | Sun, Sep 27 | 1 | [Unit 3 Review: Databases](/lessons/4_ReviewDatabases.md)
-5 | Tues, Sep 29 | 1 | Workshop: Tech Pathways + Intro to Node.js 
+5 | Tues, Sep 29 | 1 | [Workshop: Tech Pathways + Intro to Node.js](/lessons/5_Nodejs.md)
 6 | Thurs, Oct 1 | 1 | Mock Interviews
 7 | Sat, Oct 3 | 1 | Data Structures + Algorithms: Topic TBD
 8 | Sun, Oct 4 | 2 | Data Structures + Algorithms: Topic TBD
