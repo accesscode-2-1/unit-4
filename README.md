@@ -5,14 +5,31 @@ Lesson Plans for Access Code 2.1, Unit 4
 
  # |  Date | Week | Lesson |
 |---|---|---|---|
-x | Thurs, Sep 17 | x | No Class - Session Break
-x | Sat, Sep 19 | x | No Class - Session Break
-x | Sun, Sep 20 | x | No Class - Session Break
-x | Tues, Sep 22 - Thurs Sep 29 | x | Unit 4
-x | Sat, Oct 31 | x | No Class - Session Break
-x | Sun, Nov 1 | x | No Class - Session Break
-x | Tues, Nov 3 - Sun Dec 13 | x | Unit 5
-x | Weds, Nov 25 - Sun Nov 29 | x | No Class - Holiday Break
+1 | Tues, Sep 22 | 0 | Kickstarter Site Visit
+2 | Thurs, Sep 24 | 0 | Resume Prep + Code Review Exercise
+3 | Sat, Sep 26 | 0 | Unit 3 Review: Adapters and Fragments
+4 | Sun, Sep 27 | 1 | Unit 3 Review: Databases
+5 | Tues, Sep 29 | 1 | Workshop: Tech Pathways + Intro to Node.js 
+6 | Thurs, Oct 1 | 1 | Mock Interviews
+7 | Sat, Oct 3 | 1 | Data Structures + Algorithms: Topic TBD
+8 | Sun, Oct 4 | 2 | Data Structures + Algorithms: Topic TBD
+9 | Tues, Oct 7 | 2 | Data Structures + Algorithms: Topic TBD
+10 | Thurs, Oct 8 | 2 | Mock Interviews
+11 | Sat, Oct 10 | 2 | Data Structures + Algorithms: Topic TBD
+12 | Sun, Oct 11 | 3 | Data Structures + Algorithms: Topic TBD
+13 | Tues, Oct 13 | 3 | Data Structures + Algorithms: Topic TBD
+14 | Thurs, Oct 15 | 3 | Mock Interviews
+15 | Sat, Oct 17 | 3 | Data Structures + Algorithms: Topic TBD
+16 | Sun, Oct 18 | 4 | Data Structures + Algorithms: Topic TBD
+17 | Tues, Oct 20 | 4 | Data Structures + Algorithms: Topic TBD
+18 | Thurs, Oct 22 | 4 | Mock Interviews
+19 | Sat, Oct 24 | 4 | Data Structures + Algorithms: Topic TBD
+20 | Sun, Oct 25 | 5 | Data Structures + Algorithms: Topic TBD
+21 | Tues, Oct 27 | 5 | Data Structures + Algorithms: Topic TBD
+22 | Thurs, Oct 29 | 5 | Mock Interviews
+xx | Sat, Oct 31 | x | No Class - Session Break
+xx | Sun, Nov 1 | x | No Class - Session Break
+xx | Tues, Nov 3 - Sun Dec 13 | x | Unit 5
 
 
 ### Homework
