@@ -35,5 +35,5 @@ xx | Tues, Nov 3 - Sun Dec 13 | x | Unit 5
 ### Homework
 | Due Date | Homework|  
 |---|---|
-|TBD | TBD |  
-|TBD | TBD |  
+|9/27 | Project Swap Feature + Self Evaluation  |  
+|9/29 | Project Swap Features Evaluations |  
