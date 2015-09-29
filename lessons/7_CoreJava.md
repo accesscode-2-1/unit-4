@@ -1,4 +1,5 @@
 ## Title: Core Java
+*Instructor: Alex Samuel*  
 Date: October 4th, 2015
 
 ###Learning Objectives: 
