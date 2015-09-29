@@ -40,6 +40,9 @@ The following tools will be needed for this session:
 * A tool for calling and debugging api. ( https://www.getpostman.com/ )
 * Latest version of Node.js. ( https://nodejs.org )
 
+### Gist with sample code
+
+* https://gist.github.com/dionridley/26c97baaf79f9fd88b18
 
 ### Other Resources
 * faker.js - generate fake data ( http://marak.com/faker.js/ )
