@@ -39,3 +39,10 @@ The following tools will be needed for this session:
 * A text editor for editing javascript. ( http://www.sublimetext.com/ )
 * A tool for calling and debugging api. ( https://www.getpostman.com/ )
 * Latest version of Node.js. ( https://nodejs.org )
+
+
+### Other Resources
+* faker.js - generate fake data ( http://marak.com/faker.js/ )
+* Nodemon - process monitor for node ( http://nodemon.io/ )
+* moment.js - great library for handling dates and time ( http://momentjs.com/ )
+* underscore.js - great library of utility functions for object and array ( http://underscorejs.org/ )
