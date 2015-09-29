@@ -1,0 +1,5 @@
+##Project: Build an API Server
+Deliverable: A hosted API server (potentially free heroku account) written in Node.js that displays data relevant to the android app you built.  This app should take advantage of data that you are collecting from the app and storing (in Parse or Firebase).  If your app does not collect data this API should use other APIs used by your app to provide a similar set of data provided to the application.  This app should use data collected by your android app to provide metrics such as usage, types of requests, frequency of data submitted, etc.
+
+
+If your app does not currently collect data and store it in a database we will assign a datasource to you to build your API against.  The API only needs to respond to requests and should provide only data that you are comfortable sharing with the public.  The API will also need to be documented with URLs and the list of parameters required for each call as well as the return types.
