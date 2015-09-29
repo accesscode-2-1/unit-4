@@ -26,8 +26,11 @@ This session will cover:
 * npm (Node Package Manager)
 * express.js (a web server framework)
 * Building an API server with static data
-* Connecting API to a database (stretch goal)
+* Discuss: Long running apps, live relaod, etc ( http://nodemon.io/ )
+* Discuss: Hosting on your own vs. providers
 * Q & A and discussion about hosting.
+* Stretch Goal: Connecting to external database and services
+* Stretch Goal: Live debugging with Chrome Tools
 
 ### Required downloads
 
