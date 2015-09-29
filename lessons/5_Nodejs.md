@@ -46,3 +46,4 @@ The following tools will be needed for this session:
 * Nodemon - process monitor for node ( http://nodemon.io/ )
 * moment.js - great library for handling dates and time ( http://momentjs.com/ )
 * underscore.js - great library of utility functions for object and array ( http://underscorejs.org/ )
+* node-inspector - debug tool for node.js ( https://github.com/node-inspector/node-inspector )
