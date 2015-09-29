@@ -21,14 +21,14 @@ In the tech field the ability to quickly learn and pick up new technology is cri
 This session will cover:
 
 * Basics of Node.js
-* Non-blocking code
+* Non-blocking code and async programming (callbacks)
 * Basics of API design (REST, methods, versioning, etc)
 * npm (Node Package Manager)
 * express.js (a web server framework)
 * Building an API server with static data
 * Discuss: Long running apps, live relaod, etc ( http://nodemon.io/ )
 * Discuss: Hosting on your own vs. providers
-* Q & A and discussion about hosting.
+* Q & A
 * Stretch Goal: Connecting to external database and services
 * Stretch Goal: Live debugging with Chrome Tools
 
