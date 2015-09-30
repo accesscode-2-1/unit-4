@@ -4,6 +4,11 @@ Deliverable: A hosted API server (potentially free heroku account) written in No
 
 If your app does not currently collect data and store it in a database we will assign a datasource to you to build your API against.  The API only needs to respond to requests and should provide only data that you are comfortable sharing with the public.  The API will also need to be documented with URLs and the list of parameters required for each call as well as the return types.
 
+#### Install Xcode from AppStore
+
+In order to compile some node.js modules when using _npm install_ you may need to have Xcode installed.
+* Install Xcode from app store (2GB+ download I think)
+* Launch Xcode at least once and accept license agreement.  If you don't do this step npm will alert you that you need to do this when attempting a compile.
 
 #### Directory Structure Example
 ```
