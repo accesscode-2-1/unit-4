@@ -10,6 +10,15 @@ In order to compile some node.js modules when using _npm install_ you may need t
 * Install Xcode from app store (2GB+ download I think)
 * Launch Xcode at least once and accept license agreement.  If you don't do this step npm will alert you that you need to do this when attempting a compile.
 
+#### Node.js Cheat Sheet
+| Command  | Description |
+| :------------------------ | :---- |
+| npm init | Used to create a new package.json file in your current directory.  This is done when creating a new node project. |
+| npm install *package_name* | installs a node module into the folder node_modules/*package_name* , useful for testing a package before deciding if you want to use it in your project.|
+| npm install --save *package_name* | installs a node module into the folder node_modules/*package_name* and also adds it to your package.json file's dependencies section. |
+| npm install -g *package_name* | Globally install *package_name*.  Used for packages that install to be used outside of just your current project |
+| node *filename.js* | Launches your node application *filename.js* |
+
 #### Directory Structure Example
 ```
 ProjectFolder
