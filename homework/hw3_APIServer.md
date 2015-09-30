@@ -22,3 +22,16 @@ ProjectFolder
 │           └── test.js
 │           └── [other routes].js
 ```
+
+#### API Design Pattern
+As discussed in class your project will only require you to retrieve data so you can limit it to get.  If you'd like to attempt POST calls.
+
+| Route  | HTTP Verb  | Description |
+| :------------ |:---------------|:-----|
+| /api/v1/bears | GET | Get all the bears. |
+| /api/v1/bears | POST | Create a bear. |
+| /api/v1/bears/:bear_id | GET | Get a single bear. |
+| /api/v1/bears/:bear_id | PUT | Update a bear with new info. |
+| /api/v1/bears/:bear_id | DELETE | Delete a bear. |
+
+
