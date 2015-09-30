@@ -3,3 +3,22 @@ Deliverable: A hosted API server (potentially free heroku account) written in No
 
 
 If your app does not currently collect data and store it in a database we will assign a datasource to you to build your API against.  The API only needs to respond to requests and should provide only data that you are comfortable sharing with the public.  The API will also need to be documented with URLs and the list of parameters required for each call as well as the return types.
+
+
+#### Directory Structure Example
+```
+ProjectFolder
+├── package.json
+├── server.js (or whatever you call it)
+├── www (web server root folder)
+│   ├── index.html
+│   ├── js
+│   ├── img
+│   └── css
+├── lib
+│   ├── config.json (don't commit to repo, .gitignore this)
+│   └── api
+│       └── v1
+│           └── test.js
+│           └── [other routes].js
+```
