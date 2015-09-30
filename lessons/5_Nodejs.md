@@ -50,3 +50,17 @@ The following tools will be needed for this session:
 * moment.js - great library for handling dates and time ( http://momentjs.com/ )
 * underscore.js - great library of utility functions for object and array ( http://underscorejs.org/ )
 * node-inspector - debug tool for node.js ( https://github.com/node-inspector/node-inspector )
+
+
+
+### Javascript and Node.js Learning Resources
+
+##### Useful Articles
+* What are callbacks? - https://docs.nodejitsu.com/articles/getting-started/control-flow/what-are-callbacks
+ 
+
+##### Treehouse
+* Javascript Basics - http://teamtreehouse.com/library/javascript-basics
+* Javascript Loops, Arrays and Objects - http://teamtreehouse.com/library/javascript-loops-arrays-and-objects
+* Object-Oriented Javascript - http://teamtreehouse.com/library/objectoriented-javascript
+* Node.js Basics - http://teamtreehouse.com/library/nodejs-basics
