@@ -117,7 +117,7 @@ Note the `this.id` notation: this distinguishes the field named "id" from the co
 
 A Java `final` field is an example of **immutable state**: data that cannot be changed after it is defined.
 
-> **Tip:**  Use immutable fields as much as you can.  This allows you to know exactly when the value of a field was defined, at any point in the program: it must have been defined when the instance was created, and cannot have been changed since then.  
+> **Hint:**  Use immutable fields as much as you can.  This allows you to know exactly when the value of a field was defined, at any point in the program: it must have been defined when the instance was created, and cannot have been changed since then.  
 >
 > It can also help the Java compiler compile your code more efficiently.
 
@@ -170,7 +170,7 @@ Note some key points here:
 
 - Observe that _all_ of the fields in this class are `final`.  We call this type of class an **immutable class**.  Once you create an instance of it, you can't change anything about it.  An immutable class, obviously, will have getters but not setters.
 
->> **Exercise**: Design an immutable class for holding a U.S. postal address.
+> :dart: :star: :boom: :cherry_blossom: **Exercise**: Design an immutable class for holding a U.S. postal address.
 
 If a class does not extend any other type, it automatically extends `java.lang.Object`.  Thus, all classes are either directly or indirectly subclasses of `Object`.
 
