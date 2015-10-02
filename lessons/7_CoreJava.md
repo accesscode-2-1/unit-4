@@ -172,7 +172,7 @@ Note some key points here:
 
 - Observe that _all_ of the fields in this class are `final`.  We call this type of class an **immutable class**.  Once you create an instance of it, you can't change anything about it.  An immutable class, obviously, will have getters but not setters.
 
-> :dart: :star: :boom: :cherry_blossom: **Exercise**: Design an immutable class for holding a U.S. postal address.
+> :dart: **Exercise**: Design an immutable class for holding a U.S. postal address.
 
 If a class does not extend any other type, it automatically extends `java.lang.Object`.  Thus, all classes are either directly or indirectly subclasses of `Object`.
 
