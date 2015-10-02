@@ -1,11 +1,3 @@
-<style>
-.exercise {
-  margin: 1ex 0;
-  padding: 12px 18px; 
-  background: #f0f8ff;"
-}
-</style>
-
 # Title: Core Java
 *Instructor: Alex Samuel*  
 Date: October 4th, 2015
@@ -178,7 +170,7 @@ Note some key points here:
 
 - Observe that _all_ of the fields in this class are `final`.  We call this type of class an **immutable class**.  Once you create an instance of it, you can't change anything about it.  An immutable class, obviously, will have getters but not setters.
 
-<div class="exercise">
+<div style="background: #f0f8ff;">
 <b>Exercise</b>: Design an immutable class for holding a U.S. postal address.
 </div>
 
