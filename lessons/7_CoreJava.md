@@ -604,7 +604,7 @@ Child c = (Child) p;
 
 A cast is a _claim_ you make to the Java compiler that even though `p` is of _static_ type `Parent`, its _dynamic_ type is actually `Child` (or one of its subclasses).  Java doesn't trust you, though, and will check _at runtime_ whether the cast is valid.  If it's invalid, Java throws a `ClassCastException` at that point.
 
-> :dart: **Exercise:** Write a program that throws a `ClassCastException`
+> :dart: **Exercise:** Write a program that throws a `ClassCastException`.
 
 
 ## ``instanceof``
