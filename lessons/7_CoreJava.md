@@ -418,6 +418,8 @@ The contents of an initializer block are consider part of _each_ constructor.
 
 > **Exercise:** Figure out when initiazer block contents are executed relative to constructor bodies.  What if there are multiple initializer blocks?
 
+<div></div>
+
 > **Hint:** Most Java developers don't use initializer blocks much.  However, they can be useful to separate out code that is common to all constructors that doesn't refer to constructor parameters.
 
 ## Static fields
@@ -600,7 +602,7 @@ Child c = (Child) p;
 
 A cast is a _claim_ you make to the Java compiler that even though `p` is of _static_ type `Parent`, its _dynamic_ type is actually `Child` (or one of its subclasses).  Java doesn't trust you, though, and will check _at runtime_ whether the cast is valid.  If it's invalid, Java throws a `ClassCastException` at that point.
 
-> **Exercise:** Write a program that raises a `ClassCastException`
+> **Exercise:** Write a program that throws a `ClassCastException`
 
 
 ## ``instanceof``
