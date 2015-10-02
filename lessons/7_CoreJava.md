@@ -1,5 +1,7 @@
 # Title: Core Java
+
 *Instructor: Alex Samuel*  
+
 Date: October 4th, 2015
 
 We'll review the basics of Java classes and move on to some advanced class-related language features that Java provides.  Mastery of these features is necessary for object oriented programming in Java.
@@ -33,7 +35,7 @@ Each method has,
 
 A function's name and the number and types of its parameters, taken together, make up the function's **signature**.  Note that the parameter names are not part of the signature, nor is the return rype.
 
-> **Hint:** The term **argument** refers to the value passed _into_ a method, while a parameter is the value _received by_ a method.  In this example,
+> :star: **Hint:** The term **argument** refers to the value passed _into_ a method, while a parameter is the value _received by_ a method.  In this example,
 > 
 > ```java
 > double square(double x) { return x * x; }
@@ -91,7 +93,7 @@ private long id;
 
 The `getName()` and `getPrice()` methods in the example above are called **getters**.  
 
-> **Hint:** It is almost always best to make a field `private`, and provide a getter to retrieve its value.  
+> :star: **Hint:** It is almost always best to make a field `private`, and provide a getter to retrieve its value.  
 
 It is a very important convention in Java that the name of a getter starts with `get`.  The only exception to this is a getter that returns a `bool`; such a getter should start with `is`, such as `isFinished()` or `isReady()`.
 
@@ -117,7 +119,7 @@ Note the `this.id` notation: this distinguishes the field named "id" from the co
 
 A Java `final` field is an example of **immutable state**: data that cannot be changed after it is defined.
 
-> **Hint:**  Use immutable fields as much as you can.  This allows you to know exactly when the value of a field was defined, at any point in the program: it must have been defined when the instance was created, and cannot have been changed since then.  
+> :star: **Hint:**  Use immutable fields as much as you can.  This allows you to know exactly when the value of a field was defined, at any point in the program: it must have been defined when the instance was created, and cannot have been changed since then.  
 >
 > It can also help the Java compiler compile your code more efficiently.
 
@@ -208,7 +210,7 @@ final class Store {
 
 Obviously, a class may not be both `final` and `abstract`, as that would be useless: we can't instantiate it, since it is abstract, but we can't extend it with a concrete class either.
 
-> **Exercise:** Design a class model to represent real estate listings.  Your model should handle apartments, houses, apartment buildings, and empty lots for sale.
+> :dart: **Exercise:** Design a class model to represent real estate listings.  Your model should handle apartments, houses, apartment buildings, and empty lots for sale.
 
 ## Interfaces
 
@@ -228,7 +230,7 @@ public interface Rateable {
 
 All methods and fields of an interface are automatically `public`, and other access modifiers (`protected` or `private`) are not allowed.
 
-> **Exercise:** Given the definition of an interface, why do only public methods and fields make sense?
+> :dart: **Exercise:** Given the definition of an interface, why do only public methods and fields make sense?
 
 An interfaces is used in much the same way as an abstract class, except we don't say that a class "extends" it.  Instead, we say that a class **implements** it, using the special `implements` keyword.  
 
@@ -254,7 +256,7 @@ If the class is concrete, it _must_ implement all the methods of the interface, 
 
 An interface may extend another interface.
 
-> **Hint:** This will help you remember the terminology: A class extends a class, and an interface extends an interface, but a class _implements_ an interface.  
+> :star: **Hint:** This will help you remember the terminology: A class extends a class, and an interface extends an interface, but a class _implements_ an interface.  
 > 
 > An interface may not extend or implement a class.
 
@@ -311,7 +313,7 @@ public static void main(String args[]) {
 }
 ```
 
-> **Exercise:** Use <a href="http://docs.oracle.com/javase/7/docs/api/java/util/Timer.html"><code>java.util.Timer</code></a> and an anonymous instance of <a href="http://docs.oracle.com/javase/7/docs/api/java/util/TimerTask.html"><code>java.util.TimerTask</code></a> to write a program that prints "Hello, world!" once a second, indefinitely.
+> :dart: **Exercise:** Use <a href="http://docs.oracle.com/javase/7/docs/api/java/util/Timer.html"><code>java.util.Timer</code></a> and an anonymous instance of <a href="http://docs.oracle.com/javase/7/docs/api/java/util/TimerTask.html"><code>java.util.TimerTask</code></a> to write a program that prints "Hello, world!" once a second, indefinitely.
 
 
 ## Overloading
@@ -338,7 +340,7 @@ public final class Store {
 }
 ```
 
-> **Hint:** Use overloading judiciously. If two overloads differ substantially in what they accomplish, give them different names.
+> :star: **Hint:** Use overloading judiciously. If two overloads differ substantially in what they accomplish, give them different names.
 
 Unlike some languages, Java doesn't allow _default values_ for parameters; you must always provide a value to each of a methods parameters.  Overloading is sometimes used to work around this.
 
@@ -382,7 +384,7 @@ public class Album extends Product {
 }
 ```
 
-> **Hint:** "Constructor" is often abbreviated "ctor".
+> :star: **Hint:** "Constructor" is often abbreviated "ctor".
 
 A constructor with no parameters is calledthe **default constructor**.
 
@@ -398,7 +400,7 @@ Album(int id, String name, String artist) {
 }
 ```
 
-> **Exercise:** Write a class to model a maki roll.  In the constructor, specify the fish/vegetable, the filler, and the wrapper.  Provide overloaded constructors to specify "rice" as the default filler and "nori" as the default wrapper.  Then extend your class to accept multiple kinds of fish and vegetables, but provide an overloaded constructor that accepts a single type of fish as a convenience.
+> :dart: **Exercise:** Write a class to model a maki roll.  In the constructor, specify the fish/vegetable, the filler, and the wrapper.  Provide overloaded constructors to specify "rice" as the default filler and "nori" as the default wrapper.  Then extend your class to accept multiple kinds of fish and vegetables, but provide an overloaded constructor that accepts a single type of fish as a convenience.
 
 ## Initializers
 
@@ -416,11 +418,11 @@ private List<Product> products;
 
 The contents of an initializer block are consider part of _each_ constructor.
 
-> **Exercise:** Figure out when initiazer block contents are executed relative to constructor bodies.  What if there are multiple initializer blocks?
+> :dart: **Exercise:** Figure out when initiazer block contents are executed relative to constructor bodies.  What if there are multiple initializer blocks?
 
 <div></div>
 
-> **Hint:** Most Java developers don't use initializer blocks much.  However, they can be useful to separate out code that is common to all constructors that doesn't refer to constructor parameters.
+> :star: **Hint:** Most Java developers don't use initializer blocks much.  However, they can be useful to separate out code that is common to all constructors that doesn't refer to constructor parameters.
 
 ## Static fields
 
@@ -457,7 +459,7 @@ public class Album extends Product {
 }
 ```
 
-> **Hint:** As much as possible, place "special" values such as numbers and character strings in constant fields rather than directly into your code.  This prevents duplication and makes it easier to find and change the values in the future.
+> :star: **Hint:** As much as possible, place "special" values such as numbers and character strings in constant fields rather than directly into your code.  This prevents duplication and makes it easier to find and change the values in the future.
 
 You can access a static field inside an instance of a class, through a instance, or directly from the class itself.
 
@@ -467,7 +469,7 @@ System.out.println(store.URL);
 System.out.println(Store.URL);
 ```
 
-> **Hint:** A non-final static field should almost never be `public`.  If necessary, provide a static accessor method.
+> :star: **Hint:** A non-final static field should almost never be `public`.  If necessary, provide a static accessor method.
 
 ## Static methods
 
@@ -477,11 +479,11 @@ A method may also be marked `static`.  A **static method** executes independent 
 2. Non-static fields are not accessible.  However, static fields are.
 3. Non-static methods may not be called.  However, other static methods may be.
 
-> **Exercise:** Write a class called <code>Dice</code>.  Its constructor takes a number of dice, and it has a <code>roll()</code> that simulates rolling that many decide, and returns the total.  Also keep count of how many times the dice have been rolled, and provide a static accessor for this count.
+> :dart: **Exercise:** Write a class called <code>Dice</code>.  Its constructor takes a number of dice, and it has a <code>roll()</code> that simulates rolling that many decide, and returns the total.  Also keep count of how many times the dice have been rolled, and provide a static accessor for this count.
 
 The `main()` method must always be static.  That's because Java runs it before creating any instances of any classes.
 
-> **Hint:** Most programming languages allow you to define a function outside of a class; however, Java does not.  Many Java programmers group such functions together into a class or classes containing only static methods, which behave essentially as functions outside of a class.  There's no point in instantiating such a class, as all of its methods are directly accessible without an instance  The `Math` class is an example of this.
+> :star: **Hint:** Most programming languages allow you to define a function outside of a class; however, Java does not.  Many Java programmers group such functions together into a class or classes containing only static methods, which behave essentially as functions outside of a class.  There's no point in instantiating such a class, as all of its methods are directly accessible without an instance  The `Math` class is an example of this.
 
 ## Static initializers
 
@@ -515,7 +517,7 @@ public class Store {
 
 A static initializer is run right before the first time a class is used in any way.
 
-> **Exercise:** The <code>Math.sqrt()</code> method is relatively slow compared to many other math functions.  Write a class that precomputes the square roots of the numbers 0 through 100 in a static list.  Using this array, provide a <code>fastSqrt()</code> method that takes an integer and uses the list to provide a fast square root result.  If the paramter is not between 0 and 100, fall back to <code>Math.sqrt()</code>.
+> :dart: **Exercise:** The <code>Math.sqrt()</code> method is relatively slow compared to many other math functions.  Write a class that precomputes the square roots of the numbers 0 through 100 in a static list.  Using this array, provide a <code>fastSqrt()</code> method that takes an integer and uses the list to provide a fast square root result.  If the paramter is not between 0 and 100, fall back to <code>Math.sqrt()</code>.
 
 ## Static and dynamic type
 
@@ -602,7 +604,7 @@ Child c = (Child) p;
 
 A cast is a _claim_ you make to the Java compiler that even though `p` is of _static_ type `Parent`, its _dynamic_ type is actually `Child` (or one of its subclasses).  Java doesn't trust you, though, and will check _at runtime_ whether the cast is valid.  If it's invalid, Java throws a `ClassCastException` at that point.
 
-> **Exercise:** Write a program that throws a `ClassCastException`
+> :dart: **Exercise:** Write a program that throws a `ClassCastException`
 
 
 ## ``instanceof``
