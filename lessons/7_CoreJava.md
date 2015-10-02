@@ -170,9 +170,7 @@ Note some key points here:
 
 - Observe that _all_ of the fields in this class are `final`.  We call this type of class an **immutable class**.  Once you create an instance of it, you can't change anything about it.  An immutable class, obviously, will have getters but not setters.
 
-<div style="background: #f0f8ff;">
-<b>Exercise</b>: Design an immutable class for holding a U.S. postal address.
-</div>
+>> **Exercise**: Design an immutable class for holding a U.S. postal address.
 
 If a class does not extend any other type, it automatically extends `java.lang.Object`.  Thus, all classes are either directly or indirectly subclasses of `Object`.
 
@@ -210,9 +208,7 @@ final class Store {
 
 Obviously, a class may not be both `final` and `abstract`, as that would be useless: we can't instantiate it, since it is abstract, but we can't extend it with a concrete class either.
 
-<div class="exercise">
-<b>Exercise:</b> Design a class model to represent real estate listings.  Your model should handle apartments, houses, apartment buildings, and empty lots for sale.
-</div>
+> **Exercise:** Design a class model to represent real estate listings.  Your model should handle apartments, houses, apartment buildings, and empty lots for sale.
 
 ## Interfaces
 
@@ -232,9 +228,7 @@ public interface Rateable {
 
 All methods and fields of an interface are automatically `public`, and other access modifiers (`protected` or `private`) are not allowed.
 
-<div class="exercise">
-<b>Exercise:</b> Given the definition of an interface, why do only public methods and fields make sense?
-</div>
+> **Exercise:** Given the definition of an interface, why do only public methods and fields make sense?
 
 An interfaces is used in much the same way as an abstract class, except we don't say that a class "extends" it.  Instead, we say that a class **implements** it, using the special `implements` keyword.  
 
@@ -317,9 +311,7 @@ public static void main(String args[]) {
 }
 ```
 
-<div class="exercise">
-<b>Exercise:</b> Use <a href="http://docs.oracle.com/javase/7/docs/api/java/util/Timer.html"><code>java.util.Timer</code></a> and an anonymous instance of <a href="http://docs.oracle.com/javase/7/docs/api/java/util/TimerTask.html"><code>java.util.TimerTask</code></a> to write a program that prints "Hello, world!" once a second, indefinitely.
-</div>
+> **Exercise:** Use <a href="http://docs.oracle.com/javase/7/docs/api/java/util/Timer.html"><code>java.util.Timer</code></a> and an anonymous instance of <a href="http://docs.oracle.com/javase/7/docs/api/java/util/TimerTask.html"><code>java.util.TimerTask</code></a> to write a program that prints "Hello, world!" once a second, indefinitely.
 
 
 ## Overloading
@@ -406,9 +398,7 @@ Album(int id, String name, String artist) {
 }
 ```
 
-<div class="exercise">
-<b>Exercise:</b> Write a class to model a maki roll.  In the constructor, specify the fish/vegetable, the filler, and the wrapper.  Provide overloaded constructors to specify "rice" as the default filler and "nori" as the default wrapper.  Then extend your class to accept multiple kinds of fish and vegetables, but provide an overloaded constructor that accepts a single type of fish as a convenience.
-</div>
+> **Exercise:** Write a class to model a maki roll.  In the constructor, specify the fish/vegetable, the filler, and the wrapper.  Provide overloaded constructors to specify "rice" as the default filler and "nori" as the default wrapper.  Then extend your class to accept multiple kinds of fish and vegetables, but provide an overloaded constructor that accepts a single type of fish as a convenience.
 
 ## Initializers
 
@@ -426,9 +416,7 @@ private List<Product> products;
 
 The contents of an initializer block are consider part of _each_ constructor.
 
-<div class="exercise">
-<b>Exercise:</b> Figure out when initiazer block contents are executed relative to constructor bodies.  What if there are multiple initializer blocks?
-</div>
+> **Exercise:** Figure out when initiazer block contents are executed relative to constructor bodies.  What if there are multiple initializer blocks?
 
 > **Hint:** Most Java developers don't use initializer blocks much.  However, they can be useful to separate out code that is common to all constructors that doesn't refer to constructor parameters.
 
@@ -487,9 +475,7 @@ A method may also be marked `static`.  A **static method** executes independent 
 2. Non-static fields are not accessible.  However, static fields are.
 3. Non-static methods may not be called.  However, other static methods may be.
 
-<div class="exercise">
-<b>Exercise:</b> Write a class called <code>Dice</code>.  Its constructor takes a number of dice, and it has a <code>roll()</code> that simulates rolling that many decide, and returns the total.  Also keep count of how many times the dice have been rolled, and provide a static accessor for this count.
-</div>
+> **Exercise:** Write a class called <code>Dice</code>.  Its constructor takes a number of dice, and it has a <code>roll()</code> that simulates rolling that many decide, and returns the total.  Also keep count of how many times the dice have been rolled, and provide a static accessor for this count.
 
 The `main()` method must always be static.  That's because Java runs it before creating any instances of any classes.
 
@@ -527,9 +513,7 @@ public class Store {
 
 A static initializer is run right before the first time a class is used in any way.
 
-<div class="exercise">
-<b>Exercise:</b> The <code>Math.sqrt()</code> method is relatively slow compared to many other math functions.  Write a class that precomputes the square roots of the numbers 0 through 100 in a static list.  Using this array, provide a <code>fastSqrt()</code> method that takes an integer and uses the list to provide a fast square root result.  If the paramter is not between 0 and 100, fall back to <code>Math.sqrt()</code>.
-</div>
+> **Exercise:** The <code>Math.sqrt()</code> method is relatively slow compared to many other math functions.  Write a class that precomputes the square roots of the numbers 0 through 100 in a static list.  Using this array, provide a <code>fastSqrt()</code> method that takes an integer and uses the list to provide a fast square root result.  If the paramter is not between 0 and 100, fall back to <code>Math.sqrt()</code>.
 
 ## Static and dynamic type
 
@@ -616,9 +600,7 @@ Child c = (Child) p;
 
 A cast is a _claim_ you make to the Java compiler that even though `p` is of _static_ type `Parent`, its _dynamic_ type is actually `Child` (or one of its subclasses).  Java doesn't trust you, though, and will check _at runtime_ whether the cast is valid.  If it's invalid, Java throws a `ClassCastException` at that point.
 
-<div class="exercise">
-<b>Exercise:</b> Write a program that raises a <code>ClassCastException</code>.
-</div>
+> **Exercise:** Write a program that raises a `ClassCastException`
 
 
 ## ``instanceof``
