@@ -170,14 +170,14 @@ Note some key points here:
 
 - Because the constructor of `Product` takes one argument, we _must_ call it from the constructor of `App`.  We do this with the `super` keyword, which referrs to the superclass.  This is always required in a subclass constructor, _unless_ the superclass has a constructor that takes no arguments, in which case it may be omitted.
 
+If a class does not extend any other type, it automatically extends `java.lang.Object`.  Thus, all classes are either directly or indirectly subclasses of `Object`.
 
-## Immutability
+
+## Immutabile classes
 
 Observe that _all_ of the fields in this class are `final`.  We call this type of class an **immutable class**.  Once you create an instance of it, you can't change anything about it.  An immutable class, obviously, will have getters but not setters.
 
 > :dart: **Exercise**: Design an immutable class for holding a U.S. postal address.
-
-If a class does not extend any other type, it automatically extends `java.lang.Object`.  Thus, all classes are either directly or indirectly subclasses of `Object`.
 
 
 ## Final methods
@@ -572,6 +572,43 @@ Since that `Object` is the superclass of _all_ other classes, a variable of type
 
 To get around this, Java provides **boxed types**, which are eight object types corresponding to the eight primitive types.  For example, the boxed type for `long` is [`java.lang.Long`](http://docs.oracle.com/javase/7/docs/api/java/lang/Long.html).  A boxed type is less efficient than the corresponding primitive type, but is a full-fledged class, so that object variables can refer to boxed instances.
 
+
+## Dynamic dispatch
+
+What if a subclass overrides a method from its superclass?
+
+```java
+public class Product {
+    // ...
+
+    public String getDisplayName() {
+        return getName();
+    }
+}
+```
+
+```java
+public class Album extends Product {
+    // ...
+    
+    @Override
+    public String getDisplayName() {
+        return artist + " -- " + name;
+    }
+}
+```
+
+When a subclass overrides a superclass method, the overriding method will be used for each _instance_ of the subclass, _regardless of the type for which its called_.
+
+```java
+Product product = new Album("Prism", "Katy Perry", "pop");
+System.out.println(product.getDisplayName());
+```
+
+This is called **dynamic dispatch**.  When it sees `getDisplayName()`, Java will dispatch to the version of this method based on the _dynamic type_ of the object, not the static type of the variable or expression.
+
+> :star: **Hint:** This is the #1 most important concept in Java object oriented programming.  Almost all OO design patterns depend on this.
+    
 
 ## Casts
 
