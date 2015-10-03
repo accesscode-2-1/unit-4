@@ -649,7 +649,7 @@ A cast is a _claim_ you make to the Java compiler that even though `p` is of _st
 > :dart: **Exercise:** Write a program that throws a `ClassCastException`.
 
 
-## ``instanceof``
+## instanceof
 
 Since a cast throws an exception if the dynamic type of the value doesn't conform to the cast type, we have a way of testing _at run time_ the type of an object.
 
