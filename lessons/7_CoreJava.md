@@ -154,10 +154,10 @@ public class App extends Product {
 
 We use lots of terms to describe the relationship between `Product` and `App`:
 
-- `Product` **extends** `App`
-- `Product` **inherits from** `App`
-- `Product` is a **subclass** or **subtype** of `App`
-- `App` is the **base class** or **superclass** of `Product`
+- `App` **extends** `Product`
+- `App` **inherits from** `Product`
+- `App` is a **subclass** or **subtype** of `Product`
+- `Product` is the **base class** or **superclass** of `App`
 - `Product` and `App` are **parent** and **child**, respectively
 
 Note some key points here:
