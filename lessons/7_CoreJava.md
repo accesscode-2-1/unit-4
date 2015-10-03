@@ -170,7 +170,10 @@ Note some key points here:
 
 - Because the constructor of `Product` takes one argument, we _must_ call it from the constructor of `App`.  We do this with the `super` keyword, which referrs to the superclass.  This is always required in a subclass constructor, _unless_ the superclass has a constructor that takes no arguments, in which case it may be omitted.
 
-- Observe that _all_ of the fields in this class are `final`.  We call this type of class an **immutable class**.  Once you create an instance of it, you can't change anything about it.  An immutable class, obviously, will have getters but not setters.
+
+## Immutability
+
+Observe that _all_ of the fields in this class are `final`.  We call this type of class an **immutable class**.  Once you create an instance of it, you can't change anything about it.  An immutable class, obviously, will have getters but not setters.
 
 > :dart: **Exercise**: Design an immutable class for holding a U.S. postal address.
 
@@ -280,6 +283,8 @@ public class App extends Product implements Rateable, Download {
     }
 }
 ```
+
+> :dart: **Exercise:** Extend your real estate model to cover not only properties for sale, but houses and apartments for rent as well.
 
 ## Anonymous classes
 
@@ -608,4 +613,27 @@ A cast is a _claim_ you make to the Java compiler that even though `p` is of _st
 
 
 ## ``instanceof``
+
+Since a cast throws an exception if the dynamic type of the value doesn't conform to the cast type, we have a way of testing _at run time_ the type of an object.
+
+```java
+Object val = ...;
+boolean isInstanceOfTestClass;
+try {
+    TestClass unused = (TestClass) val;
+    isInstanceOfTestClass = true;
+}
+catch (ClassCastException exc) {
+    isInstanceOfTestClass = false;
+}
+```
+
+This is rather inefficient, not to mention cumbersom.  Java provides an easier way: the **instanceof** operator.
+
+```java
+boolean isInstanceOfTestClass = val instanceof TestClass;
+```
+
+> :star: **Hint:** It's bad form to use `instanceof` much.  Whenever you find yourself using it, ask yourself whether there's another mechanism you could use instead; it would probably lead to better code.
+
 
