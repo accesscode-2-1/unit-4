@@ -673,4 +673,6 @@ boolean isInstanceOfTestClass = val instanceof TestClass;
 
 > :star: **Hint:** It's bad form to use `instanceof` much.  Whenever you find yourself using it, ask yourself whether there's another mechanism you could use instead; it would probably lead to better code.
 
+##Exit Ticket  
+Please complete the exit ticket [here](https://docs.google.com/forms/d/1J9B9Y7BX7xdHYzUfLeoLWAS7Ff6zDCBsM5puqZtT4aM/viewform?usp=send_form). 
 
