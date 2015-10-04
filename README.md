@@ -12,7 +12,7 @@ Lesson Plans for Access Code 2.1, Unit 4
 5 | Tues, Sep 29 | 1 | [Workshop: Tech Pathways + Intro to Node.js](/lessons/5_Nodejs.md)
 6 | Thurs, Oct 1 | 1 | Mock Interviews
 7 | Sat, Oct 3 | 1 | [Review: Core Java / OOP](/lessons/7_CoreJava.md)
-8 | Sun, Oct 4 | 2 | Discrete Math & Logic I
+8 | Sun, Oct 4 | 2 | [Discrete Math & Logic I](https://docs.google.com/presentation/d/1xA87As2-QiHzOWg9fL6NOIVM9Iz9V6_WvlgvGDEa5GA/edit?usp=sharing)
 9 | Tues, Oct 7 | 2 | Discrete Math & Logic II
 10 | Thurs, Oct 8 | 2 | Mock Interviews
 11 | Sat, Oct 10 | 2 | The Hardware/Software Interface / OOP
