@@ -16,7 +16,7 @@ Lesson Plans for Access Code 2.1, Unit 4
 9 | Tues, Oct 7 | 2 | Discrete Math & Logic II
 10 | Thurs, Oct 8 | 2 | Mock Interviews
 11 | Sat, Oct 10 | 2 | [Data Representation in Hardware & Software](https://drive.google.com/file/d/0B0eZ0hF8kDy_R2QwQm5lZm1ka1k/view?usp=sharing)
-12 | Sun, Oct 11 | 3 | [Algorithm Analysis & Intro to Data Structures]()
+12 | Sun, Oct 11 | 3 | [Algorithm Analysis & Intro to Data Structures](https://drive.google.com/file/d/0B0eZ0hF8kDy_YWhkcWdYX1FieDg/view?usp=sharing)
 13 | Tues, Oct 13 | 3 | Sorting I
 14 | Thurs, Oct 15 | 3 | Mock Interviews
 15 | Sat, Oct 17 | 3 | Intro to Computer Networking / OOP
