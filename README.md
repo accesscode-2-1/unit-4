@@ -19,11 +19,11 @@ Lesson Plans for Access Code 2.1, Unit 4
 12 | Sun, Oct 11 | 3 | [Algorithm Analysis & Intro to Data Structures](https://drive.google.com/file/d/0B0eZ0hF8kDy_YWhkcWdYX1FieDg/view?usp=sharing)
 13 | Tues, Oct 13 | 3 | Sorting I
 14 | Thurs, Oct 15 | 3 | Mock Interviews
-15 | Sat, Oct 17 | 3 | Intro to Computer Networking / OOP
+15 | Sat, Oct 17 | 3 | Intro to Computer Networking
 16 | Sun, Oct 18 | 4 | Linked Lists & Hash Tables
 17 | Tues, Oct 20 | 4 | Heaps & Priority Queues
 18 | Thurs, Oct 22 | 4 | Mock Interviews
-19 | Sat, Oct 24 | 4 | Principles of Computer Security / OOP
+19 | Sat, Oct 24 | 4 | Principles of Computer Security
 20 | Sun, Oct 25 | 5 | HTTP and SSL
 21 | Tues, Oct 27 | 5 | Sorting II
 22 | Thurs, Oct 29 | 5 | Mock Interviews
