@@ -17,7 +17,7 @@ Lesson Plans for Access Code 2.1, Unit 4
 10 | Thurs, Oct 8 | 2 | Mock Interviews
 11 | Sat, Oct 10 | 2 | [Data Representation in Hardware & Software](https://drive.google.com/file/d/0B0eZ0hF8kDy_R2QwQm5lZm1ka1k/view?usp=sharing)
 12 | Sun, Oct 11 | 3 | [Algorithm Analysis & Intro to Data Structures](https://drive.google.com/file/d/0B0eZ0hF8kDy_YWhkcWdYX1FieDg/view?usp=sharing)
-13 | Tues, Oct 13 | 3 | Heaps & Priority Queues
+13 | Tues, Oct 13 | 3 | [Heaps & Priority Queues] (https://docs.google.com/presentation/d/1JzFzkNpVlo1X3fv085p9Vs31cX3JgU6FkExpHk9tDFI/edit?usp=sharing)
 14 | Thurs, Oct 15 | 3 | Mock Interviews
 15 | Sat, Oct 17 | 3 | Intro to Computer Networking
 16 | Sun, Oct 18 | 4 | Linked Lists & Hash Tables
