@@ -33,10 +33,10 @@ xx | Tues, Nov 3 - Sun Dec 13 | x | Unit 5
 
 
 ### Homework
-| Due Date | Homework|  
-|---|---|
-|9/27 | Project Swap Feature + Self Evaluation  |  
-|9/29 | Project Swap Features Evaluations | 
-|10/4 | [Building an API Server](/homework/hw3_APIServer.md) | 
-|10/11| [Counting Problems (complete 7 problems at least, pass: c4qac2.1)](http://acm.hust.edu.cn/vjudge/contest/view.action?cid=93281)|
+| Due Date | Homework| Homework Solutions |  
+|---|---|---|
+|9/27 | Project Swap Feature + Self Evaluation  |  Homework 1 Solutions |
+|9/29 | Project Swap Features Evaluations | Homework 2 Solutions |
+|10/4 | [Building an API Server](/homework/hw3_APIServer.md) | Homework 3 Solutions |
+|10/11| [Counting Problems (complete 7 problems at least, pass: c4qac2.1)](http://acm.hust.edu.cn/vjudge/contest/view.action?cid=93281)| Homework 4 Solutions |
 
