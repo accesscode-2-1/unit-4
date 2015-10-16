@@ -17,7 +17,7 @@ Lesson Plans for Access Code 2.1, Unit 4
 10 | Thurs, Oct 8 | 2 | Mock Interviews
 11 | Sat, Oct 10 | 2 | [Data Representation in Hardware & Software](https://drive.google.com/file/d/0B0eZ0hF8kDy_R2QwQm5lZm1ka1k/view?usp=sharing)
 12 | Sun, Oct 11 | 3 | [Algorithm Analysis & Intro to Data Structures](https://drive.google.com/file/d/0B0eZ0hF8kDy_YWhkcWdYX1FieDg/view?usp=sharing)
-13 | Tues, Oct 13 | 3 | [Heaps & Priority Queues] (https://docs.google.com/presentation/d/1JzFzkNpVlo1X3fv085p9Vs31cX3JgU6FkExpHk9tDFI/edit?usp=sharing)
+13 | Tues, Oct 13 | 3 | [Heaps & Priority Queues](https://docs.google.com/presentation/d/1JzFzkNpVlo1X3fv085p9Vs31cX3JgU6FkExpHk9tDFI/edit?usp=sharing)
 14 | Thurs, Oct 15 | 3 | Mock Interviews
 15 | Sat, Oct 17 | 3 | Intro to Computer Networking
 16 | Sun, Oct 18 | 4 | Linked Lists & Hash Tables
@@ -35,8 +35,8 @@ xx | Tues, Nov 3 - Sun Dec 13 | x | Unit 5
 ### Homework
 | Due Date | Homework| Homework Solutions |  
 |---|---|---|
-|9/27 | Project Swap Feature + Self Evaluation  |  Homework 1 Solutions |
-|9/29 | Project Swap Features Evaluations | Homework 2 Solutions |
-|10/4 | [Building an API Server](/homework/hw3_APIServer.md) | Homework 3 Solutions |
-|10/11| [Counting Problems (complete 7 problems at least, pass: c4qac2.1)](http://acm.hust.edu.cn/vjudge/contest/view.action?cid=93281)| Homework 4 Solutions |
+|9/27 | Project Swap Feature + Self Evaluation  |  [Homework 1 Solutions](/homework/homework_solutions/homework_1_solutions) |
+|9/29 | Project Swap Features Evaluations | [Homework 2 Solutions](/homework/homework_solutions/homework_2_solutions) |
+|10/4 | [Building an API Server](/homework/hw3_APIServer.md) | [Homework 3 Solutions](/homework/homework_solutions/homework_3_solutions) |
+|10/11| [Counting Problems (complete 7 problems at least, pass: c4qac2.1)](http://acm.hust.edu.cn/vjudge/contest/view.action?cid=93281)| [Homework 4 Solutions](/homework/homework_solutions/homework_2_solutions) |
 
