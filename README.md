@@ -20,7 +20,7 @@ Lesson Plans for Access Code 2.1, Unit 4
 13 | Tues, Oct 13 | 3 | [Heaps & Priority Queues](https://docs.google.com/presentation/d/1JzFzkNpVlo1X3fv085p9Vs31cX3JgU6FkExpHk9tDFI/edit?usp=sharing)
 14 | Thurs, Oct 15 | 3 | Mock Interviews
 15 | Sat, Oct 17 | 3 | [Intro to Computer Networking](https://drive.google.com/file/d/0B0eZ0hF8kDy_VzVzQWVXYTE4SUE/view?usp=sharing)
-16 | Sun, Oct 18 | 4 | Linked Lists & Hash Tables
+16 | Sun, Oct 18 | 4 | [Linked Lists & Hash Tables](https://drive.google.com/file/d/0B0eZ0hF8kDy_UFQxbXAyWGlkZ1E/view?usp=sharing)
 17 | Tues, Oct 20 | 4 | Sorting I
 18 | Thurs, Oct 22 | 4 | Mock Interviews
 19 | Sat, Oct 24 | 4 | Principles of Computer Security
