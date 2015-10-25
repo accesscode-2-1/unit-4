@@ -44,5 +44,6 @@ xx | Tues, Nov 3 - Sun Dec 13 | x | Unit 5
 |10/15| Heaps and Priority Queues | --- |
 |10/18| [Computer Networking](/homework/networking/intro_to_networking.md) |---|
 |10/20| [Linked Lists & Hash Tables](/homework/lists_and_tables/linked_lists_and_hash_tables.md) |---|
-|10/22| [Sorting Alogorithms](https://docs.google.com/a/c4q.nyc/forms/d/19UxG03QlqOMNGX1MRbYqDFKJsrXPUcn3QttRjnovXmI/viewform)|---|
+|10/22| [Sorting Algorithms](https://docs.google.com/a/c4q.nyc/forms/d/19UxG03QlqOMNGX1MRbYqDFKJsrXPUcn3QttRjnovXmI/viewform)|---|
+|10/24| Principles of Computer Security | --- |
 
