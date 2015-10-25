@@ -23,7 +23,7 @@ Lesson Plans for Access Code 2.1, Unit 4
 16 | Sun, Oct 18 | 4 | [Linked Lists & Hash Tables](https://drive.google.com/file/d/0B0eZ0hF8kDy_UFQxbXAyWGlkZ1E/view?usp=sharing)
 17 | Tues, Oct 20 | 4 | [Sorting I](https://docs.google.com/presentation/d/1F1pmt_2TS80q-S-3G3BpGfzbU5EpRGqF_ZAPXLT7zUE/edit?usp=sharing)
 18 | Thurs, Oct 22 | 4 | Mock Interviews
-19 | Sat, Oct 24 | 4 | Principles of Computer Security
+19 | Sat, Oct 24 | 4 | [Principles of Computer Security](https://drive.google.com/file/d/0B0eZ0hF8kDy_WjFTMk1YanR0YVE/view?usp=sharing)
 20 | Sun, Oct 25 | 5 | Trees
 21 | Tues, Oct 27 | 5 | Sorting II
 22 | Thurs, Oct 29 | 5 | Mock Interviews
