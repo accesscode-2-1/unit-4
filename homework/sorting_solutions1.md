@@ -1,11 +1,17 @@
 #Selection Sort
 ###Show the steps in sorting this list with Selection Sort: (4, 3, 22, 1, 8, 5) *
 4, 3, 22, 1, 8, 5
+
 1, 3, 22, 4, 8 ,5
+
 1, 3, 22, 4, 8 ,5 
+
 1, 3, 4, 22, 8, 5
+
 1, 3, 4, 5, 8, 22
+
 1, 3, 4, 5, 8, 22
+
 1, 3, 4, 5, 8, 22
 
 ###Why is selection sort's efficiency independent of the data being sorted? *
@@ -20,8 +26,11 @@ array_size - 1
 #Insertion Sort
 ###Show the steps in sorting this list with Insertion Sort: (4, 6, 7, 4, 2, 3, 9) *
 4, 6, 7, 4, 2, 3, 9
+
 4, 4, 6, 7, 2, 3, 9
+
 2, 4, 4, 6, 7, 3, 9
+
 2, 3, 4, 4, 6, 7, 9
 
 ###Consider the following lists of partially sorted numbers. The double bars represent the sort marker. How many comparisons and swaps are needed to sort the next number. [1 3 4 8 9 || 5 2] *
