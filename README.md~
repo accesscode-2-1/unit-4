@@ -37,8 +37,8 @@ xx | Tues, Nov 3 - Sun Dec 13 | x | Unit 5
 |---|---|---|
 |10/4 10:00 pm | [Building an API Server](/homework/hw3_APIServer.md) | --- |
 |10/10 10:00 pm | [Counting Problems (complete 7 problems at least, pass: c4qac2.1)](http://acm.hust.edu.cn/vjudge/contest/view.action?cid=93281)|---|
-|10/11 10:00 pm | [Data Representation](/homework/Data_representation_hw) | [Solutions](/homework/solutions/11_Bytes)|
-|10/13 10:00 pm | [Algorithm Analysis](/homework/Algorithm_hw) | [Algorithm Solutions](/homework/solutions/12_Algorithms) and [Stacks Solutions](homework/solutions/12_Stacks)  |
+|10/11 10:00 pm | [Data Representation](/homework/Data_representation_hw.png) | [Solutions](/homework/solutions/11_Bytes)|
+|10/13 10:00 pm | [Algorithm Analysis](/homework/Algorithm_hw.png) | [Algorithm Solutions](/homework/solutions/12_Algorithms) and [Stacks Solutions](homework/solutions/12_Stacks)  |
 |---| Heaps and Priority Queues: No Homework | --- |
 |10/18 10:00 pm | [Computer Networking](/homework/networking/intro_to_networking.md) |[Solutions](/homework/solutions/15_Networking)|
 |10/20 10:00 pm | [Linked Lists & Hash Tables: Assignment](/homework/lists_and_tables/linked_lists_and_hash_tables.md) <br> [Link to submission form](https://docs.google.com/forms/d/1VrZjj6Jv9QZPZ-8OaP3ZaQ9Iiw__8atvuQv-M-0piB4/viewform?usp=send_form)| [Hash Table Solutions](/homework/solutions/16_HashTables) <br>[Linked List Solutions](/homework/solutions/16_LinkedLists)|
