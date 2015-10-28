@@ -43,7 +43,7 @@ xx | Tues, Nov 3 - Sun Dec 13 | x | Unit 5
 |10/13 10:00 pm | Algorithm Analysis | [Algorithm Solutions](/homework/solutions/12_Algorithms) and [Stacks Solutions](homework/solutions/12_Stacks)  |
 |---| Heaps and Priority Queues: No Homework | --- |
 |10/18 10:00 pm | [Computer Networking](/homework/networking/intro_to_networking.md) |[Solutions](/homework/solutions/15_Networking)|
-|10/20 10:00 pm | [Linked Lists & Hash Tables: Assignment](/homework/lists_and_tables/linked_lists_and_hash_tables.md) <br> [Link to submission form](https://docs.google.com/forms/d/1VrZjj6Jv9QZPZ-8OaP3ZaQ9Iiw__8atvuQv-M-0piB4/viewform?usp=send_form) [Hash Table Solutions](/homework/solutions/16_HashTables) <br>[Linked List Solutions](/homework/solutions/16_LinkedLists)|
+|10/20 10:00 pm | [Linked Lists & Hash Tables: Assignment](/homework/lists_and_tables/linked_lists_and_hash_tables.md) <br> [Link to submission form](https://docs.google.com/forms/d/1VrZjj6Jv9QZPZ-8OaP3ZaQ9Iiw__8atvuQv-M-0piB4/viewform?usp=send_form)| [Hash Table Solutions](/homework/solutions/16_HashTables) <br>[Linked List Solutions](/homework/solutions/16_LinkedLists)|
 |10/22 10:00 pm | [Sorting Algorithms](https://docs.google.com/a/c4q.nyc/forms/d/19UxG03QlqOMNGX1MRbYqDFKJsrXPUcn3QttRjnovXmI/viewform)|---|
 |10/27 10:00 pm | [Computer Security: Assignment](/homework/networking/Comp_security_hw.png) <br>  [Link to submission form](https://docs.google.com/forms/d/16q7koFv5hB-BXcSNw9rrjsRDbsNHYz3sYqM6XG_JI3w/viewform)|---|
 |10/29 10:00 pm | [Sorting II](https://docs.google.com/a/c4q.nyc/forms/d/1ESp-X0UKrL_4mGbZneYZudGxTh7fIg_tceYEooAp4Dc/viewform)| --- |
