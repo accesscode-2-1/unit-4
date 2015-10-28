@@ -43,8 +43,8 @@ xx | Tues, Nov 3 - Sun Dec 13 | x | Unit 5
 |10/13 10 pm | Algorithm Analysis | [Algorithm Solutions](/homework/solutions/12_Algorithms) and [Stacks Solutions](homework/solutions/12_Stacks)  |
 |---| Heaps and Priority Queues: No Homework | --- |
 |10/18 10 pm | [Computer Networking](/homework/networking/intro_to_networking.md) |---|
-|10/20 10 pm | [Linked Lists & Hash Tables: Assignment](/homework/lists_and_tables/linked_lists_and_hash_tables.md) <br> [Linked Lists & Hash Tables: Google Form](https://docs.google.com/forms/d/1VrZjj6Jv9QZPZ-8OaP3ZaQ9Iiw__8atvuQv-M-0piB4/viewform?usp=send_form) |---|
+|10/20 10 pm | [Linked Lists & Hash Tables: Assignment](/homework/lists_and_tables/linked_lists_and_hash_tables.md) <br> [Link to submission form](https://docs.google.com/forms/d/1VrZjj6Jv9QZPZ-8OaP3ZaQ9Iiw__8atvuQv-M-0piB4/viewform?usp=send_form) |---|
 |10/22 10 pm | [Sorting Algorithms](https://docs.google.com/a/c4q.nyc/forms/d/19UxG03QlqOMNGX1MRbYqDFKJsrXPUcn3QttRjnovXmI/viewform)|---|
-|10/27 10 pm | [Computer Security: Assignment](/homework/networking/Comp_security_hw.png) <br>  [Computer Security: Google Form](https://docs.google.com/forms/d/16q7koFv5hB-BXcSNw9rrjsRDbsNHYz3sYqM6XG_JI3w/viewform)|---|
+|10/27 10 pm | [Computer Security: Assignment](/homework/networking/Comp_security_hw.png) <br>  [Link to submission form](https://docs.google.com/forms/d/16q7koFv5hB-BXcSNw9rrjsRDbsNHYz3sYqM6XG_JI3w/viewform)|---|
 |10/29 10 pm | [Sorting II](https://docs.google.com/a/c4q.nyc/forms/d/1ESp-X0UKrL_4mGbZneYZudGxTh7fIg_tceYEooAp4Dc/viewform)| --- |
-|11/3 10 pm | [Trees: Assignment](/homework/trees/trees_hw.png) <br>  [Trees: Google Form](https://docs.google.com/forms/d/1CdcHwB7skgy1BcueIHpf7Fh0LNiA6ZBjp2T0qM3nQK4/viewform)| --- |
+|11/3 10 pm | [Trees: Assignment](/homework/trees/trees_hw.png) <br>  [Link to submission form](https://docs.google.com/forms/d/1CdcHwB7skgy1BcueIHpf7Fh0LNiA6ZBjp2T0qM3nQK4/viewform)| --- |

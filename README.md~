@@ -35,21 +35,6 @@ xx | Tues, Nov 3 - Sun Dec 13 | x | Unit 5
 ### Homework
 | Due Date | Homework| Homework Solutions |  
 |---|---|---|
-<<<<<<< HEAD
-|9/27 | Project Swap Feature + Self Evaluation  | --- |
-|9/29 | Project Swap Features Evaluations | --- |
-|10/4 | [Building an API Server](/homework/hw3_APIServer.md) | --- |
-|10/10| [Counting Problems (complete 7 problems at least, pass: c4qac2.1)](http://acm.hust.edu.cn/vjudge/contest/view.action?cid=93281)|---|
-|10/11| Data Representation | [Solutions](/homework/solutions/11_Bytes)|
-|10/13| Algorithm Analysis | [Algorithm Solutions](/homework/solutions/12_Algorithms) and [Stacks Solutions](homework/solutions/12_Stacks)  |
-|10/15| Heaps and Priority Queues | --- |
-|10/18| [Computer Networking](/homework/networking/intro_to_networking.md) |[Solutions](/homework/solutions/15_Networking)|
-|10/20| [Linked Lists & Hash Tables: Assignment](/homework/lists_and_tables/linked_lists_and_hash_tables.md) <br> [Linked Lists & Hash Tables: Google Form](https://docs.google.com/forms/d/1VrZjj6Jv9QZPZ-8OaP3ZaQ9Iiw__8atvuQv-M-0piB4/viewform?usp=send_form) | [Linked Lists Solutions](/homework/solutions/16_LinkedLists) and [Hash Tables Solutions](/homework/solutions/16_HashTables)  |
-|10/22| [Sorting Algorithms](https://docs.google.com/a/c4q.nyc/forms/d/19UxG03QlqOMNGX1MRbYqDFKJsrXPUcn3QttRjnovXmI/viewform)|[Solutions](homework/sorting_solutions1.md)|
-|10/27| [Computer Security: Assignment](/homework/networking/Comp_security_hw.png) <br>  [Computer Security: Google Form](https://docs.google.com/forms/d/16q7koFv5hB-BXcSNw9rrjsRDbsNHYz3sYqM6XG_JI3w/viewform)|---|
-|10/29| [Sorting II](https://docs.google.com/a/c4q.nyc/forms/d/1ESp-X0UKrL_4mGbZneYZudGxTh7fIg_tceYEooAp4Dc/viewform)| --- |
-|11/3| [Trees: Assignment](/homework/trees/trees_hw.png) <br>  [Trees: Google Form](https://docs.google.com/forms/d/1CdcHwB7skgy1BcueIHpf7Fh0LNiA6ZBjp2T0qM3nQK4/viewform)| --- |
-=======
 |9/27 10 pm | Project Swap Feature + Self Evaluation  | --- |
 |9/29 10 pm | Project Swap Features Evaluations | --- |
 |10/4 10 pm | [Building an API Server](/homework/hw3_APIServer.md) | --- |
@@ -61,5 +46,5 @@ xx | Tues, Nov 3 - Sun Dec 13 | x | Unit 5
 |10/20 10 pm | [Linked Lists & Hash Tables: Assignment](/homework/lists_and_tables/linked_lists_and_hash_tables.md) <br> [Linked Lists & Hash Tables: Google Form](https://docs.google.com/forms/d/1VrZjj6Jv9QZPZ-8OaP3ZaQ9Iiw__8atvuQv-M-0piB4/viewform?usp=send_form) |---|
 |10/22 10 pm | [Sorting Algorithms](https://docs.google.com/a/c4q.nyc/forms/d/19UxG03QlqOMNGX1MRbYqDFKJsrXPUcn3QttRjnovXmI/viewform)|---|
 |10/27 10 pm | [Computer Security: Assignment](/homework/networking/Comp_security_hw.png) <br>  [Computer Security: Google Form](https://docs.google.com/forms/d/16q7koFv5hB-BXcSNw9rrjsRDbsNHYz3sYqM6XG_JI3w/viewform)|---|
-
->>>>>>> Changed presentation links to PDF
+|10/29 10 pm | [Sorting II](https://docs.google.com/a/c4q.nyc/forms/d/1ESp-X0UKrL_4mGbZneYZudGxTh7fIg_tceYEooAp4Dc/viewform)| --- |
+|11/3 10 pm | [Trees: Assignment](/homework/trees/trees_hw.png) <br>  [Trees: Google Form](https://docs.google.com/forms/d/1CdcHwB7skgy1BcueIHpf7Fh0LNiA6ZBjp2T0qM3nQK4/viewform)| --- |
