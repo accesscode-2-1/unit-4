@@ -47,3 +47,4 @@ xx | Tues, Nov 3 - Sun Dec 13 | x | Unit 5
 |10/22| [Sorting Algorithms](https://docs.google.com/a/c4q.nyc/forms/d/19UxG03QlqOMNGX1MRbYqDFKJsrXPUcn3QttRjnovXmI/viewform)|[Solutions](homework/sorting_solutions1.md)|
 |10/27| [Computer Security: Assignment](/homework/networking/Comp_security_hw.png) <br>  [Computer Security: Google Form](https://docs.google.com/forms/d/16q7koFv5hB-BXcSNw9rrjsRDbsNHYz3sYqM6XG_JI3w/viewform)|---|
 |10/29| [Sorting II](https://docs.google.com/a/c4q.nyc/forms/d/1ESp-X0UKrL_4mGbZneYZudGxTh7fIg_tceYEooAp4Dc/viewform)| --- |
+|11/3| [Trees: Assignment](/homework/trees/trees_hw.png) <br>  [Trees: Google Form](https://docs.google.com/forms/d/1CdcHwB7skgy1BcueIHpf7Fh0LNiA6ZBjp2T0qM3nQK4/viewform)| --- |
