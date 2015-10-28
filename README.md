@@ -42,7 +42,7 @@ xx | Tues, Nov 3 - Sun Dec 13 | x | Unit 5
 |10/11| Data Representation | [Solutions](/homework/solutions/11_Bytes)|
 |10/13| Algorithm Analysis | [Algorithm Solutions](/homework/solutions/12_Algorithms) and [Stacks Solutions](homework/solutions/12_Stacks)  |
 |10/15| Heaps and Priority Queues | --- |
-|10/18| [Computer Networking](/homework/networking/intro_to_networking.md) |---|
+|10/18| [Computer Networking](/homework/networking/intro_to_networking.md) |[Solutions](/homework/solutions/15_Networking)|
 |10/20| [Linked Lists & Hash Tables: Assignment](/homework/lists_and_tables/linked_lists_and_hash_tables.md) <br> [Linked Lists & Hash Tables: Google Form](https://docs.google.com/forms/d/1VrZjj6Jv9QZPZ-8OaP3ZaQ9Iiw__8atvuQv-M-0piB4/viewform?usp=send_form) | [Linked Lists Solutions](/homework/solutions/16_LinkedLists) and [Hash Tables Solutions](/homework/solutions/16_HashTables)  |
 |10/22| [Sorting Algorithms](https://docs.google.com/a/c4q.nyc/forms/d/19UxG03QlqOMNGX1MRbYqDFKJsrXPUcn3QttRjnovXmI/viewform)|[Solutions](homework/sorting_solutions1.md)|
 |10/27| [Computer Security: Assignment](/homework/networking/Comp_security_hw.png) <br>  [Computer Security: Google Form](https://docs.google.com/forms/d/16q7koFv5hB-BXcSNw9rrjsRDbsNHYz3sYqM6XG_JI3w/viewform)|---|
