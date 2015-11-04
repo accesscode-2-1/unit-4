@@ -35,8 +35,8 @@ xx | Tues, Nov 3 - Sun Dec 13 | x | Unit 5
 ### Homework
 | Due Date | Homework| Homework Solutions |  
 |---|---|---|
-|10/4 <br>7:00 pm | [Building an API Server](/homework/hw3_APIServer.md) | --- |
-|10/10 <br>7:00 pm | [Counting Problems (complete 7 problems at least, pass: c4qac2.1)](http://acm.hust.edu.cn/vjudge/contest/view.action?cid=93281)|---|
+|10/4 <br>7:00 pm | [Building an API Server](/homework/hw3_APIServer.md) [SUBMIT](https://docs.google.com/a/c4q.nyc/forms/d/15uXeNHRRscQHx6P_DKJpSDupbpYE8X9JVWKF19fBT14/viewform)| --- |
+|10/10 <br>7:00 pm | [Counting Problems (complete 7 problems at least, pass: c4qac2.1)](http://acm.hust.edu.cn/vjudge/contest/view.action?cid=93281) [SUBMIT](https://docs.google.com/a/c4q.nyc/forms/d/16kBDkR92INqTc24kNeVQ6b-6rf6k4KNeq9EK2cQiIGU/viewform)|---|
 |10/11 <br>7:00 pm | [Data Representation](/homework/Data_representation_hw.png) [SUBMIT](https://docs.google.com/a/c4q.nyc/forms/d/1ozIA03UDvwUoesvUawKD_C6AewnYpHRCUZBvEYqwUQg/viewform) | [Solutions](/homework/solutions/11_Bytes)|
 |10/13 <br>7:00 pm | [Algorithm Analysis](/homework/Algorithm_hw.png) [SUBMIT](https://docs.google.com/a/c4q.nyc/forms/d/1ozIA03UDvwUoesvUawKD_C6AewnYpHRCUZBvEYqwUQg/viewform)| [Algorithm Solutions](/homework/solutions/12_Algorithms) and [Stacks Solutions](homework/solutions/12_Stacks)  |
 |---| Heaps and Priority Queues: No Homework | --- |
